@@ -1,2 +1,1 @@
-# NOVOMATIC
-My repository for job application.
+# Some Java projects I'm working on.
